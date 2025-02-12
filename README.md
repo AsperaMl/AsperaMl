@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/73/48/07/734807779ad6cc5b0620359f950d2ff1.gif" alt="banner" width="100%">
+<img src="https://gist.github.com/user-attachments/assets/ff9b745b-8cef-4788-8b09-6244448814f9" alt="banner" width="100%">
 
 <h1 align="center">Hello, I'm Alex </h1>
 
