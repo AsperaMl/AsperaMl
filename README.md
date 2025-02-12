@@ -4,13 +4,13 @@
 
 ## Hey! 
 
-- 🌟 I am Ml engineer with 3.5 years of experience in RecSys and Classic Ml.
-- 💡 I am working at Credit Scoring Systems and RecSys, I am also not a nepfew at DL tasks like AI Agents.
+-  I am Ml engineer with 3.5 years of experience in RecSys and Classic Ml.
+-  I am working at Credit Scoring Systems and RecSys, I am also not a nepfew at DL tasks like AI Agents.
 
-
+You can contact me: telegram: https://t.me/asperaml (preferred) email: Osinsky.sanya@yandex.ru
 ---
 
-### 🚀 Languages and Tools:
+###  Languages and Tools:
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
