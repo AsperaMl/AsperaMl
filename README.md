@@ -1,4 +1,4 @@
-<img src="https://gist.github.com/AsperaMl/c88408058f5084708f4d4db0e36cefc8" alt="banner" width="100%">
+<img src="https://github.com/AsperaMl/AsperaMl/blob/main/734807779ad6cc5b0620359f950d2ff1%20(2).gif" alt="banner" width="100%">
 
 <h1 align="center">Hello, I'm Alex </h1>
 
