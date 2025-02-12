@@ -22,7 +22,7 @@
 
 ---
 
-### 📫 Contact Me:
+### Follow Me:
 <p>
   <a href="https://t.me/asperaml"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="mailto:Osinsky.sanya@yandex.ru"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
