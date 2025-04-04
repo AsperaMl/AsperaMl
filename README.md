@@ -4,6 +4,6 @@
 
 ## Hey! 
 
--  I am Senior Ml engineer at Fonbet  with 3.5 years of experience in RecSys and Classic Ml.
+-  I am middle+/Senior Ml engineer at Fonbet  with 3.5 years of experience in RecSys and Classic Ml.
 -  I am working at Credit Scoring Systems and RecSys, I am also not a nepfew at DL tasks like AI Agents, LLM model etc.
 
